@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\turka\\source\\repos\\Kurumsal\\Ray Sigorta\\Clean Code\\Group 1\\Naming\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0906F264-91C6-4E2A-90FF-C19AB45EE2C2}|Naming\\Naming.csproj|c:\\users\\turka\\source\\repos\\kurumsal\\ray sigorta\\clean code\\group 1\\naming\\naming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0906F264-91C6-4E2A-90FF-C19AB45EE2C2}|Naming\\Naming.csproj|solutionrelative:naming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CEA36460-A7D5-4245-89D7-7AD35490420C}|Naming\\Naming.csproj|c:\\users\\turka\\source\\repos\\kurumsal\\ray sigorta\\clean code\\group 1\\naming\\naming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA36460-A7D5-4245-89D7-7AD35490420C}|Naming\\Naming.csproj|solutionrelative:naming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
               "RelativeToolTip": "Naming\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T08:00:39.595Z",
+              "WhenOpened": "2024-06-01T08:38:59.273Z",
               "EditorCaption": ""
             }
           ]

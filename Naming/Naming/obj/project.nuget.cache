@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "kTp6aSajtv39LQbsm07l1pZKxmrRrfLX9vMovoDr9sRKDjg5QfKsR1XkBYRfWTJbqp/WyrQtzEGIxujnxeJCew==",
+  "dgSpecHash": "EXcB5KkIdN3C8TssaK31l9h60WFGEJ+uZAgtEvSDZIB9MaHy327Mjen6LoFr8f5qV50nl6ZpRnZk1n2vbYADrw==",
   "success": true,
   "projectFilePath": "C:\\Users\\turka\\source\\repos\\Kurumsal\\Ray Sigorta\\Clean Code\\Group 1\\Naming\\Naming\\Naming.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\turka\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\turka\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\turka\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\turka\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
